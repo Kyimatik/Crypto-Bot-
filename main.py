@@ -15,7 +15,7 @@ from states1 import Crypt
 from states1 import Kurschange
 from states1 import Sellusdts
 group_id =-4180547434
-TOKEN ="6600760660:AAGSlt0F6Mm7oH_MHU49pNjjIxf9y6NqbzM"
+TOKEN ="Emirlan Ysmanov"
 
 # All handlers should be attached to the Router (or Dispatcher)
 bot = Bot(TOKEN)
